@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/kirbo.obj-d13c6944bf78ac11622ecb4f9dab5c62.mesh"
+
+[deps]
+
+files=[ "res://.import/kirbo.obj-d13c6944bf78ac11622ecb4f9dab5c62.mesh" ]
+
+source_file="res://Kirbo/kirbo.obj"
+dest_files=[ "res://.import/kirbo.obj-d13c6944bf78ac11622ecb4f9dab5c62.mesh", "res://.import/kirbo.obj-d13c6944bf78ac11622ecb4f9dab5c62.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
